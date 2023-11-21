@@ -1,0 +1,253 @@
+{
+    "body_html": "",
+    "skus": [
+        "NYC-IPO-`PI-IP2234`-043023-6"
+    ],
+    "available": true,
+    "created_at": "2023-04-30T16:55:47-04:00",
+    "review_count": 0,
+    "variants": [
+        {
+            "merged_options": [
+                "title:Default Title"
+            ],
+            "inventory_quantity": 20,
+            "image": null,
+            "original_merged_options": [
+                "title:Default Title"
+            ],
+            "compare_at_price": "133.99",
+            "inventory_management": "shopify",
+            "fulfillment_service": "manual",
+            "available": true,
+            "weight": 0,
+            "title": "Default Title",
+            "inventory_policy": "continue",
+            "weight_unit": "lb",
+            "price": "109.99",
+            "id": 41237785935929,
+            "sku": "NYC-IPO-`PI-IP2234`-043023-6",
+            "barcode": ""
+        }
+    ],
+    "media": [],
+    "title": "Peter Veyder-Malberg, Riesling Buschenberg, 2021",
+    "price_min": 109.99,
+    "images_info": [
+        {
+            "src": "https://cdn.shopify.com/s/files/1/0125/1518/0601/files/Peter-Veyder-Malberg-Riesling-Buschenberg-2021-White-Wine-Flatiron-Wines-Spirits-New-York.jpg?v=1683902784",
+            "width": 1200,
+            "alt": "Bottle of Peter Veyder-Malberg, Riesling Buschenberg, 2021 - White Wine - Flatiron Wines & Spirits - New York",
+            "id": 31630630748217,
+            "position": 1,
+            "height": 2000
+        }
+    ],
+    "review_ratings": 0,
+    "template_suffix": null,
+    "updated_at": "2023-10-25T18:06:10-04:00",
+    "collections": [
+        {
+            "template_suffix": null,
+            "handle": "peter-veyder-malberg-1",
+            "id": 260900749369,
+            "sort_value": "4c641",
+            "title": "Peter Veyder-Malberg"
+        },
+        {
+            "template_suffix": "",
+            "handle": "austria",
+            "id": 57048432697,
+            "sort_value": "7610y",
+            "title": "Austria"
+        },
+        {
+            "template_suffix": "",
+            "handle": "riesling",
+            "id": 154017267769,
+            "sort_value": "hs",
+            "title": "Riesling"
+        },
+        {
+            "template_suffix": "",
+            "handle": "beaujolais-and-riesling-for-autumn",
+            "id": 279881777209,
+            "sort_value": "zzzzzzzuf",
+            "title": "Beaujolais and Riesling for Autumn"
+        },
+        {
+            "template_suffix": "",
+            "handle": "wines-from-the-wachau",
+            "id": 161713651769,
+            "sort_value": "fd0004a",
+            "title": "Wines from The Wachau"
+        },
+        {
+            "template_suffix": "",
+            "handle": "white-wine",
+            "id": 149841543225,
+            "sort_value": "kjo",
+            "title": "White Wine"
+        },
+        {
+            "template_suffix": "",
+            "handle": "above-50",
+            "id": 161757528121,
+            "sort_value": "cb",
+            "title": "Above $50"
+        },
+        {
+            "template_suffix": "",
+            "handle": "fine-rare",
+            "id": 153939017785,
+            "sort_value": "9x",
+            "title": "Fine & Rare"
+        },
+        {
+            "template_suffix": "",
+            "handle": "peter-veyder-malberg-2021s-and-library-releases",
+            "id": 282499252281,
+            "sort_value": "0z000w",
+            "title": "Peter Veyder-Malberg 2021s and Library Releases"
+        },
+        {
+            "template_suffix": "",
+            "handle": "white-wines-for-a-long-hot-summer",
+            "id": 277316960313,
+            "sort_value": "hu",
+            "title": "White Wines for A Long, Hot Summer"
+        },
+        {
+            "template_suffix": "",
+            "handle": "all",
+            "id": 231160840249,
+            "sort_value": "zzzzyk1",
+            "title": "All Products"
+        },
+        {
+            "template_suffix": "",
+            "handle": "summer-white-wine-sale",
+            "id": 277389475897,
+            "sort_value": "hu",
+            "title": "Summer White Wine Sale"
+        },
+        {
+            "template_suffix": "",
+            "handle": "all-wines",
+            "id": 149841805369,
+            "sort_value": "g0z",
+            "title": "ALL WINES"
+        },
+        {
+            "template_suffix": "",
+            "handle": "compare-at-price",
+            "id": 157355933753,
+            "sort_value": "2sdle1",
+            "title": "Compare at price"
+        },
+        {
+            "template_suffix": "",
+            "handle": "drizly",
+            "id": 154334462009,
+            "sort_value": "l6",
+            "title": "Drizly"
+        },
+        {
+            "template_suffix": "",
+            "handle": "valentines-dinner-wines",
+            "id": 231125319737,
+            "sort_value": "o8p",
+            "title": "Valentine's Dinner Wines"
+        },
+        {
+            "template_suffix": "",
+            "handle": "july-4th-sale",
+            "id": 275459080249,
+            "sort_value": "4s1",
+            "title": "July 4th Sale"
+        },
+        {
+            "template_suffix": null,
+            "handle": "new-collection",
+            "id": 283363704889,
+            "sort_value": "4as",
+            "title": "New products"
+        },
+        {
+            "template_suffix": null,
+            "handle": "best-selling-collection",
+            "id": 283363737657,
+            "sort_value": "ja5",
+            "title": "Best selling products"
+        }
+    ],
+    "vendor": "IPO [IPO]",
+    "percent_sale_min": 18,
+    "best_selling_rank": 999999,
+    "html": {
+        "theme_id": 0,
+        "value": ""
+    },
+    "id": 7021095157817,
+    "published_at": "2023-05-11T16:44:16-04:00",
+    "ts_custom_fields": {},
+    "images": {
+        "1": "https://cdn.shopify.com/s/files/1/0125/1518/0601/files/Peter-Veyder-Malberg-Riesling-Buschenberg-2021-White-Wine-Flatiron-Wines-Spirits-New-York.jpg?v=1683902784"
+    },
+    "options_with_values": [
+        {
+            "original_name": "title",
+            "values": [
+                {
+                    "image": null,
+                    "title": "Default Title"
+                }
+            ],
+            "name": "title",
+            "label": "Title",
+            "position": 1
+        }
+    ],
+    "handle": "peter-veyder-malberg-riesling-buschenberg-2021-750ml",
+    "compare_at_price_min": 133.99,
+    "barcodes": [],
+    "tags": [
+        "Adjusted: In",
+        "Author: JMB",
+        "Body: Medium Bodied",
+        "core-no-restrictions",
+        "Country: Austria",
+        "CS20230511",
+        "Farming Practice: Biodynamic",
+        "Grape Variety: Riesling",
+        "instock-12424052793:Available for Same-Day Delivery/Pickup",
+        "last_sold:2023-08-31",
+        "Maturity: Needs Cellaring",
+        "Needs Description",
+        "Needs Photo",
+        "New Product",
+        "NO GTIN",
+        "outofstock-34877636665",
+        "Pairing: Drink With Fish",
+        "Pairing: Drink With Poultry",
+        "Photo search",
+        "Producer: Peter Veyder-Malberg",
+        "Region: Wachau",
+        "Size: 750ml",
+        "so051123 peter veyder-malberg offer",
+        "so070123 4th of july offer",
+        "Style: Aromatic",
+        "Style: Crisp",
+        "Style: Minerally",
+        "Sweetness: Dry",
+        "Vintage: 2021"
+    ],
+    "published_scope": "global",
+    "metafields": [],
+    "product_type": "White Wine",
+    "locations": [],
+    "position": null,
+    "compare_at_price_max": 133.99,
+    "product_category": null,
+    "price_max": 109.99
+}

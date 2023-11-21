@@ -1,0 +1,28 @@
+{
+    "title": "Domaine Vigot Fabrice, Vosne-Romanee La Colombiere, 2014",
+    "description": "Our service offers the exquisite Domaine Vigot Fabrice, Vosne-Romanee La Colombiere, 2014, a wine known for its rich flavor and superior quality. We provide fast, reliable delivery and expert customer service. Our competitive pricing and commitment to quality set us apart, making us the ideal choice for wine connoisseurs seeking a premium experience.\nBody: Light Bodied\nCountry: France\nGrape Variety: Pinot Noir\nMaturity: Starting to Mature\nPairing: Drink With Poultry\nProducer: Domaine Vigot Fabrice\nRegion: Burgundy\nSize: 750ml\nSweetness: Dry\nVintage: 2014\n",
+    "cat": [
+        {
+            "category": 2,
+            "subcategory": 110
+        }
+    ],
+    "productImage": [
+        "https://localposh-products-strore.s3.amazonaws.com/images/K9cjWJXg0JIBnuO3ZcnDZ3ILccazLxSyKLJfZ3CD.jpg"
+    ],
+    "productInventory": [
+        {
+            "size": "750ml",
+            "weight": "1",
+            "quantity": "12",
+            "color": "",
+            "colorName": "",
+            "price": "119.99",
+            "discountedprice": "",
+            "salesTax": "",
+            "overSized": []
+        }
+    ],
+    "isService": "PRODUCT",
+    "ageRestricted": "1"
+}
